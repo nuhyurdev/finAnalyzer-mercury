@@ -1,5 +1,6 @@
 matplotlib
 pandas
+pandas-ta
 numpy
 pandas_datareader
 requests
