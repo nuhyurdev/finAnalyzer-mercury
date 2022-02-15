@@ -1,4 +1,4 @@
-matplotlib.pyplot
+matplotlib
 pandas
 numpy
 pandas_datareader
