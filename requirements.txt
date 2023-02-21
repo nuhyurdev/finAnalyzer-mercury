@@ -6,4 +6,4 @@ pandas_datareader
 requests
 mplfinance
 beautifulsoup4
-mljar-mercury
+mljar-mercury==1.0.0
